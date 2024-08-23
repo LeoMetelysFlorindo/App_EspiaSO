@@ -1,0 +1,149 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.WifiInfo.Abstractions</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.WifiInfo.Abstractions.BaseWifiInfo">
+            <summary>
+            Abstract class that gets implemented in all platform specific projects exposing wifi abstarctions
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="M:Plugin.WifiInfo.Abstractions.BaseWifiInfo.OnSignalStrengthChanged(Plugin.WifiInfo.Abstractions.SignalStrengthChangedEventArgs)">
+            <summary>
+            When Signal Strength changes
+            </summary>
+            <param name="e"></param>
+        </member>
+        <member name="E:Plugin.WifiInfo.Abstractions.BaseWifiInfo.SignalStrengthChanged">
+            <summary>
+            Connectivity event
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.BaseWifiInfo.ScanResults">
+            <summary>
+            Retrieves a list of available bandwidths for the platform.
+            Only active connections.
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.BaseWifiInfo.BestSignal">
+            <summary>
+            Retrieves best of the available signal.
+            Only active connections.
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.BaseWifiInfo.ConnectedWifiInformation">
+            <summary>
+            Current connected wifi information.
+            Only active connections.
+            </summary>
+        </member>
+        <member name="M:Plugin.WifiInfo.Abstractions.BaseWifiInfo.Dispose">
+            <summary>
+            Dispose of class and parent classes
+            </summary>
+        </member>
+        <member name="M:Plugin.WifiInfo.Abstractions.BaseWifiInfo.Finalize">
+            <summary>
+            Dispose up
+            </summary>
+        </member>
+        <member name="M:Plugin.WifiInfo.Abstractions.BaseWifiInfo.Dispose(System.Boolean)">
+            <summary>
+            Dispose method
+            </summary>
+            <param name="disposing"></param>
+        </member>
+        <member name="T:Plugin.WifiInfo.Abstractions.IWifiInfo">
+            <summary>
+            Interface for WifiInfo
+            </summary>
+        </member>
+        <member name="E:Plugin.WifiInfo.Abstractions.IWifiInfo.SignalStrengthChanged">
+            <summary>
+            Event handler when connection changes
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.IWifiInfo.ScanResults">
+            <summary>
+            Retrieves a list of available bandwidths for the platform.
+            Only active connections.
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.IWifiInfo.BestSignal">
+            <summary>
+            Retrieves best of the signal available.
+            Only active connections.
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.IWifiInfo.ConnectedWifiInformation">
+            <summary>
+            Get Current connected WifiInfo.
+            Only active connections.
+            </summary>
+        </member>
+        <member name="T:Plugin.WifiInfo.Abstractions.SignalStrengthChangedEventArgs">
+            <summary>
+            Arguments to pass to event handlers
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.SignalStrengthChangedEventArgs.GreetingMsg">
+            <summary>
+            Gets if there is an active internet connection
+            </summary>
+        </member>
+        <member name="T:Plugin.WifiInfo.Abstractions.SignalStrengthChangedEventHandler">
+            <summary>
+            Connectivity changed event handlers
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="T:Plugin.WifiInfo.Abstractions.WifiAccessPoinntScanResult">
+            <summary>
+            Class which gives properties of the available wifi access points after a scan
+            </summary>
+        </member>
+        <member name="T:Plugin.WifiInfo.Abstractions.WifiInformation">
+            <summary>
+            Gives details of a connected wifi point
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.WifiInformation.Bssid">
+            <summary>
+            Unique identifier of a particular access point
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.WifiInformation.Frequency">
+            <summary>
+            Frequency level
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.WifiInformation.HiddenSSID">
+            <summary>
+            Is Ssid hidden
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.WifiInformation.IPAddress">
+            <summary>
+            Ip address of the signal point
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.WifiInformation.MacAddress">
+            <summary>
+            Mac Address
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.WifiInformation.NetworkId">
+            <summary>
+            Network Id
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.Abstractions.WifiInformation.Ssid">
+            <summary>
+            Ssid - unique identifier of the network
+            </summary>
+        </member>
+    </members>
+</doc>

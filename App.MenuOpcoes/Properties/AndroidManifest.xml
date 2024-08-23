@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AppEspiaSo.AppEspiaSo" android:versionCode="1" android:installLocation="auto" android:versionName="1.A01">
+	<uses-sdk android:minSdkVersion="16" />
+	<application android:label="AppEspiaSo" android:hardwareAccelerated="false" android:icon="@drawable/logoapp50x50"></application>
+	<supports-screens android:resizeable="true" android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" />
+</manifest>

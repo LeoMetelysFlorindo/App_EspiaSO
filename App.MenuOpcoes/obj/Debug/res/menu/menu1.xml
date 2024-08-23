@@ -1,0 +1,22 @@
+<menu android:background="#2579BF" xmlns:android="http://schemas.android.com/apk/res/android"><item android:id="@+id/Adicionar" android:showAsAction="ifRoom" /><item android:id="@+id/Editar" android:showAsAction="ifRoom" /><item android:id="@+id/Favoritos" android:title="@string/Favoritos" android:showAsAction="ifRoom" /><item android:id="@+id/Conheca" android:title="@string/Conheca" android:showAsAction="ifRoom" /><item android:id="@+id/Sobre" android:title="@string/Sobre" android:showAsAction="ifRoom" /></menu><!-- Code to implement into Activity:
+
+Android.Widget.SearchView searchView;
+public override bool OnCreateOptionsMenu(IMenu menu)
+{
+  this.MenuInflater.Inflate(Resource.Menu.menu, menu);
+
+  var searchItem = menu.FindItem(Resource.Id.action_search);
+
+  searchView = searchItem.ActionProvider.JavaCast<Android.Widget.SearchView>();
+
+  searchView.QueryTextSubmit += (sender, args) =>
+  {
+    Toast.MakeText(this, "You searched: " + args.Query, ToastLength.Short).Show();
+
+  };
+
+
+  return base.OnCreateOptionsMenu(menu);
+}
+
+-->

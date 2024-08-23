@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tela1">
+    <RelativeLayout
+        android:id="@+id/titleBarLinearLayout"
+        android:orientation="horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="55dp"
+        android:background="#0c2d7a">
+        <ImageView
+            android:id="@+id/menuIconImgView"
+            android:src="@drawable/menu_icon"
+            android:scaleType="fitXY"
+            android:layout_height="fill_parent"
+            android:layout_width="70dp"
+            android:padding="0dp"
+            android:requiresFadingEdge="none"
+            android:fadingEdge="none"
+            android:layout_marginTop="2dp"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="260dp" />
+    </RelativeLayout>
+    <SearchView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/searchView1"
+        android:layout_gravity="center"
+        android:layout_marginTop="80px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Lazer100x100"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="140px"
+        android:id="@+id/btnLazer"
+        android:onClick="btnLazerClicked"
+        android:layout_marginLeft="80px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Servicos100x100"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnServicos"
+        android:onClick="btnServicosClicked"
+        android:layout_marginTop="140px"
+        android:layout_marginLeft="250px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Saude100x100"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnSaude"
+        android:onClick="btnSaudeClicked"
+        android:layout_marginTop="280px"
+        android:layout_marginLeft="80px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Compras100x100"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnCompras"
+        android:onClick="btnComprasClicked"
+        android:layout_marginTop="280px"
+        android:layout_marginLeft="250px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Ouvidoria100X100"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnOuvidoria"
+        android:onClick="btnOuvidoriaClicked"
+        android:layout_marginTop="430px"
+        android:layout_marginLeft="80px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Fone100X100"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnFones"
+        android:onClick="btnFonesClicked"
+        android:layout_marginTop="430px"
+        android:layout_marginLeft="250px" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/Favoritos100x50"
+        android:id="@+id/btnFavoritos"
+        android:onClick="btnFavoritosClicked"
+        android:gravity="center_vertical"
+        android:layout_marginLeft="155px"
+        android:layout_marginTop="590px" />
+    <ListView
+        android:id="@+id/menuListView"
+        android:layout_below="@+id/titleBarLinearLayout"
+        android:background="#0c2d7a"
+        android:divider="#CFEBFF"
+        android:dividerHeight="1dp"
+        android:layout_marginLeft="0dp"
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:visibility="gone" />
+</RelativeLayout>

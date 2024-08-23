@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="AppEspiaSo.AppEspiaSo" android:versionCode="196609" android:installLocation="auto" android:versionName="1.A01">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <application android:label="AppEspiaSo" android:hardwareAccelerated="false" android:icon="@drawable/logoapp50x50" android:name="md53f0c4dc9990ea84e08f416e27b54424d.MainApplication" android:allowBackup="true">
+    <activity android:label="ActivityAdicionar" android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityAdicionar" />
+    <activity android:label=" BUSCA " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityBusca" />
+    <activity android:label="ActivityCompartilhar" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityCompartilhar" />
+    <activity android:label=" COMPRAS " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityCompras" />
+    <activity android:label=" CONHEÇA A ALEAM " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityConheca" />
+    <activity android:label=" SOBRE " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityConhecaaALEAM" />
+    <activity android:label=" FAVORITOS " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityFavoritos" />
+    <activity android:label=" LAZER " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityLazer" />
+    <activity android:label=" OUVIDORIA ALEAM " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityOuvidoria" />
+    <activity android:label=" SAÚDE " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivitySaude" />
+    <activity android:label=" SERVIÇOS " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityServico" />
+    <activity android:label=" FONES ÚTEIS " android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.ActivityTelefone" />
+    <activity android:noHistory="true" android:theme="@style/EspiaSo.Theme" android:name="md53f0c4dc9990ea84e08f416e27b54424d.Apresenta">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="ESPIA SÓ" android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.MainActivity" />
+    <activity android:label="MOSTRAR LEI" android:screenOrientation="portrait" android:name="md53f0c4dc9990ea84e08f416e27b54424d.MostrarLei" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="AppEspiaSo.AppEspiaSo.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+  <supports-screens android:resizeable="true" android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" />
+  <meta-data android:name="android.support.VERSION" android:value="25.3.1" />
+</manifest>

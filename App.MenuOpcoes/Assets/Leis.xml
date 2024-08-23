@@ -1,0 +1,614 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="estilo.css"?>
+<!-- ARQUIVOS DE LEIS  -->
+<!-- AQUI CONSTAM TODAS AS LEIS APRESENTADAS NO APLICATIVO -->
+<!-- Desenvolvedor: Leonardo Metelys 18/04/2017 16:16h      -->
+<!-- ALEAM - Assembleia Legislativa do Estado do Amazonas  -->
+<!-- Gerência de Aplicativos / Diretoria de Informática    -->
+<leis>
+  <tipolei>
+    lazer
+    <lei>    
+      <numero>102</numero>
+      <ano>2011</ano>
+      <tipo>LPR</tipo>
+      <desc>LEI PROMULGADA Nº 102 DE 14 DE DEZEMBRO DE 2011</desc>
+      <nome>DISCIPLINA a meia entrada para deficientes físicos em salas de cinema</nome>      
+      <ementa> DISCIPLINA a meia entrada para deficientes físicos em salas de cinema, em espetáculos de teatro e circo, em museus, parques e eventos educativos, esportivos e de lazer, realizados em todos os locais públicos de cultura, em casa de diversões, espetáculos, praças esportivas e similares do Estado do Amazonas</ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea e, I, do artigo 17, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, faz saber a todos que a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1º - Fica instituída a meia entrada para deficientes físicos nos eventos em salas de cinema, em espetáculos de
+        teatro e circo, em museus, parques e eventos educativos, esportivos e de lazer, realizados em todos os locais
+        públicos de cultura, em casa de diversões, espetáculos, praças esportivas e similares do Estado do Amazonas.
+        Art. 2º - A meia entrada corresponde a 50% (cinquenta por cento) do valor do ingresso cobrado, sem restrição de
+        data e horário.
+        Art. 3º - O descumprimento desta lei determinará as seguintes sanções, graduada de acordo com a gravidade e
+        reincidência:
+        I - advertência para obediência dos termos desta lei;
+        II - multa de R$ 100,00 (cem reais) que será revertida ao Fundo Estadual de Defesa do Consumidor
+        (FUNDECON), criado pela Lei n. 2.228, de 29 de junho de 1994;
+        III - suspensão da Licença de Funcionamento por 02 (dois) dias;
+        IV - suspensão da Licença de Funcionamento por 05 (cinco) dias;
+        V - cassação da Licença de Funcionamento.
+        Art. 4º - Cabe ao PROCON/AM (Programa de Proteção e Orientação ao Consumidor do Estado do Amazonas) a
+        fiscalização para cumprimento das disposições desta lei e a aplicação da penalidade de multa prevista no art. 3º.
+        Parágrafo único. No âmbito do Poder Legislativo, a defesa do consumidor será exercida pela Comissão Técnica
+        Permanente específica, respeitando o disposto no art. 9º da Constituição Estadual.
+        Art. 5º - O Poder Executivo regulamentará a presente lei no prazo de 90 (noventa) dias.
+        Art. 6º - Esta lei entrará em vigor na data de sua publicação
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=9046</linkSAPL>
+    </lei>
+    <lei>
+      <numero>295</numero>
+      <ano>2015</ano>
+      <tipo>LPR</tipo>
+      <desc>LEI PROMULGADA Nº 295 DE 18 DE DEZEMBRO DE 2015</desc>
+      <nome>DIVULGA o  direito do idoso ao pagamento de meia-entrada</nome>      
+      <ementa> TORNA obrigatória a divulgação do artigo 23, da Lei Federal n. 10.741, de 01/10/03, nos estabelecimentos culturais, artísticos, esportivos e de lazer, públicos e privados, informando sobre o direito do idoso no pagamento de meia-entrada, no âmbito do Estado do Amazonas.</ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea e,
+        I, do artigo 17, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, faz saber a todos que a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1.º Ficam os estabelecimentos que promovem eventos culturais, artísticos, esportivos e de lazer, públicos e
+        privados, localizados no âmbito do Estado do Amazonas, obrigados a fixar placa em local visível e próximo das
+        bilheterias, informando o direito do idoso, conforme o artigo 23, da Lei Federal n. 10.741, de 1.º de outubro de
+        2003, conforme a sua redação que menciona:
+        “Art. 23. A participação dos idosos em atividades culturais e de lazer será proporcionada mediante descontos de
+        pelo menos 50% (cinquenta por cento) nos ingressos para eventos artísticos, culturais, esportivos e de lazer, bem
+        como o acesso preferencial aos respectivos locais. (Estatuto do Idoso - Lei Federal n. 10.741, de 01/10/2003).”
+        Art. 2.º O estabelecimento infrator das prescrições desta Lei fica sujeito à multa que deverá ser revertida em prol do
+        Conselho Estadual do Idoso do Amazonas, conforme regulamentação a ser implementada pelo Poder Executivo.
+        Art. 3.º O Poder Executivo regulamentará a presente Lei.
+        Art. 4.º Esta Lei entra em vigor na data de sua publicação
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=9423</linkSAPL>
+    </lei>
+    <lei>
+      <numero>3076</numero>
+      <ano>2006</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 3076 DE 01 DE AGOSTO DE 2006</desc>
+      <nome>CONCEDE aos estudantes meia entrada em cinemas, teatros, etc.</nome>      
+      <ementa>CONCEDE aos estudantes meia entrada em cinemas, teatros, circos, eventos culturais, desportivos, artísticos e educacionais, parques e casas de diversão, em todos os Municípios do Estado do Amazonas, e dá outras providências.</ementa>
+      <texto>
+        Art. 1° - Fica assegurado aos estudantes da Educação Básica (educação infantil, ensino fundamental e médio), Educação de Jovens e Adultos, Educação Profissional e Tecnológica, Educação Superior (graduação, pós-graduação e seqüenciais), cursos Pré-Universitários e Cursos Livres, devidamente cadastrados e identificados, o pagamento de meia entrada do valor efetivamente cobrado sobre o valor do ingresso em cinemas, teatros, circos, parques e casas de diversão, eventos culturais, desportivos, artísticos e educacionais, tais como seminários, palestras e conferências, em todos os Municípios do Estado do Amazonas.
+        § 1° - O abatimento previsto no caput deste artigo será concedido sobre todos os assentos existentes no evento, tipo pista, cadeiras, lugar no camarote, frisa, e será praticado sobre todos os ingressos antecipados, com descontos ou promocionais, prevalecendo ainda o desconto de 50% (cinqüenta por cento) meia entrada como o menor preço de fato sobre os ingressos a serem comercializados, sendo vedada a venda genérica ou indiscriminada da meia entrada estudantil.
+        § 2° - Em lugar de fácil acesso ao público, os promotores afixarão obrigatoriamente tabelas de preços nelas incluídas a meia entrada.
+        Art. 2° - O benefício da meia entrada será garantido aos estudantes dos cursos elencados no artigo 1° desta Lei, desde que estejam devidamente matriculados em estabelecimentos de ensino público ou particular cadastrados e identificados.
+        Art. 3° - Para usufruir do benefício a que se refere o artigo 1° desta Lei, o estudante deverá provar a condição referida no artigo anterior, através da Carteira de Identidade Estudantil que deverá ser emitida pela União dos Estudantes Secundaristas do Amazonas - UESA - para estudantes da Educação Básica, de Jovens e Adultos, Profissional e Tecnológica, Cursos Pré-Universitários e Cursos Livres; e pela União dos Estudantes do Amazonas - UEA, para os estudantes da Educação Superior, sendo vedada a habilitação de outras entidades para este fim.
+        § 1° - Fica assegurado aos representantes da UESA e UEA o acesso e permanência às instituições dos respectivos níveis de ensino, em local de grande circulação de alunos, para efetivarem a divulgação desta Lei, o cadastramento de estudantes, a expedição e a entrega das Carteiras de Identificação Estudantil, sendo vedada a proibição destas atividades pela direção das instituições de ensino.
+        § 2° - Às entidades estudantis filiadas ou credenciadas pela UESA ou UEA, tais como, Grêmios Estudantis e Diretórios e Centros Acadêmicos, poderão auxiliá-las na distribuição das Carteiras de Identidade Estudantil.
+        § 3° - A Carteira de Identidade Estudantil terá validade periódica de até 01 (um) ano, renovável por igual período, enquanto o estudante mantiver a condição habilitadora prevista no artigo 2° desta Lei.
+        § 4° - A identificação estudantil, além dos dados pessoais, conterá obrigatoriamente informações relativas ao curso, grau e estabelecimento de ensino, a foto do estudante e a assinatura do Presidente da Entidade Estudantil.
+        § 5° - Os estudantes regularmente matriculados em estabelecimentos e instituições públicas ou particulares de ensino que tiverem a sua solicitação de isenção aprovada pela sua respectiva entidade receberão, gratuitamente, sua carteira de identificação estudantil.
+        Art. 4° - A fiscalização das vendas dos ingressos nas casas de espetáculos e similares neste Estado, deverá ser de responsabilidade do Poder Executivo do Estado do Amazonas através de seus respectivos órgãos de Cultura, Esporte, Turismo e do PROCON, bem como na fiscalização e cumprimento desta Lei pelo Ministério Público do Estado.
+        Parágrafo único. Às entidades estudantis UESA e UEA, fica franqueado o acesso de até 03 (três) representantes ao recinto do evento ou do estabelecimento, assegurado o direito de informações sobre os eventos e se estão disponibilizando a venda da meia entrada.
+        Art. 5° - O descumprimento desta Lei, por parte do promotor do evento acarretará em multa de cem (100) vezes o valor do ingresso do evento e a suspensão imediata do direito à obtenção de licença para funcionamento ou realização de novos espetáculos pelo período de 01 (um) ano.
+        Parágrafo único. Os recursos arrecadados provenientes das multas que dispõe o caput deste artigo serão destinadas ao Fundo Estadual de Defesa do Consumidor - FUNDECON, do Estado do Amazonas.
+        Art. 6° - A presente Lei entra em vigor na data de sua publicação, revogam-se as disposições em contrário.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7531</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>3208</numero>
+      <ano>2007</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 3208 DE 28 DE DEZEMBRO DE 2007</desc>
+      <nome>DISPÕE sobre a obrigatoriedade do uso da expressão SE BEBER, NÃO DIRIJA em cardápios e propagandas de bares</nome>      
+      <ementa> DISPÕE sobre a obrigatoriedade do uso da expressão “SE BEBER, NÃO DIRIJA” em todos os cardápios e propagandas de bares, restaurantes e boates no Estado do Amazonas.</ementa>
+      <texto>
+        Art. 1º - Fica obrigatória a divulgação da expressão “SE BEBER, NÃO DIRIJA”, em todos os cardápios e
+        propagandas de bares, restaurantes e boates, no âmbito do Estado do Amazonas.
+        Parágrafo único. A expressão citada no caput deste artigo deve ser impressa em local visível e com destaque,
+        utilizando-se de cor diferenciada do restante do texto.
+        Art. 2º - O Poder Executivo baixará os Atos que se fizerem necessários para a regulamentação da presente lei,
+        dispondo sobre a fiscalização e multas sobre seu descumprimento.
+        Art. 3º - Esta lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7663</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>2976</numero>
+      <ano>2005</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 2976 DE 08 DE SETEMBRO DE 2005</desc>
+      <nome>DISPÕE sobre a proibição de cobrança de consumação mínima em bares, boates e casas noturnas</nome>      
+      <ementa> DISPÕE sobre a proibição de cobrança de consumação mínima em bares, boates e casas noturnas no Estado do Amazonas.</ementa>
+      <texto>
+        Art. 1º - Fica proibido às casas noturnas, bares e boates do Estado do Amazonas, condicionar o fornecimento de
+        produtos e serviços a limites quantitativos, bem como ao fornecimento de outro produto ou serviço, ainda que a
+        título de consumação mínima.
+        Art. 2° - As cartelas de consumo ou cartões magnéticos não deverão vir impressos com menções relativas a multas
+        ou taxas abusivas cobradas por ocasião de seu extravio.
+        Art. 3° - O descumprimento desta Lei sujeitará ao infrator a pena de multa, graduada de acordo com a gravidade da
+        infração, a vantagem auferida e a condição econômica do fornecedor, será aplicada mediante procedimento
+        administrativo, revertendo para o Fundo de que trata a Lei n° 7.347, de 24 de julho de 1985, os valores cabíveis à
+        União, ou para os Fundos estaduais ou municipais de proteção ao consumidor nos demais casos.
+        Parágrafo único - A multa será em montante não inferior a duzentas e não superior a três milhões de vezes o valor
+        da Unidade Fiscal de Referência (Ufir), ou índice equivalente que venha a substituí-lo.
+        Art. 4º - Revogam-se as disposições em contrário.
+        Art. 5º - Esta Lei entra em vigor na data de sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7431</linkSAPL>  
+    </lei>    
+  </tipolei>
+  <!-- FIM DA LEIS DE LAZER -->
+  <tipolei>
+    servico
+    <lei>
+      <numero>163</numero>
+      <ano>2013</ano>
+      <tipo>LPR</tipo>
+      <desc>LEI PROMULGADA Nº 163 DE 12 DE JULHO DE 2013</desc>
+      <nome>Obriga a reserva de mesas e cadeiras para idosos, pessoas com deficiência e para mulheres gestantes</nome>      
+      <ementa>INSTITUI a obrigatoriedade de reserva de mesas e cadeiras para idosos, pessoas com deficiência e para mulheres gestantes, nas praças de alimentação dos shoppings centers, bares e nos restaurantes no âmbito do Estado.</ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea e,
+        I, do artigo 17, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, faz saber a todos que a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1.º Institui a obrigatoriedade de reserva de mesas e cadeiras para idosos, pessoas com deficiência e para
+        mulheres gestantes, nas praças de alimentação dos shoppings centers, bares e nos restaurantes no âmbito do Estado.
+        Art. 2.º Para o cumprimento do disposto nesta Lei observar-se-á, quanto aos assentos preferenciais:
+        I - o número de mesas e cadeiras reservadas não pode ser inferior a 5% (cinco por cento) do total das disponíveis
+        aos clientes.
+        II - devem estar posicionados em local de fácil acesso ao atendimento e à circulação local;
+        III - devem ser distribuídos de modo a não ensejar o isolamento ou discriminação de seus usuários, evitando-se
+        desta forma preconceito ou constrangimento de qualquer natureza.
+        Art. 3.º A inobservância do disposto nesta Lei ensejará nas seguintes penalidades:
+        I - advertência para obediência dos termos desta Lei;
+        II - multa de R$1.000,00 (mil reais) a R$3.000,00 (três mil reais), que será revertida ao Fundo Estadual da Criança
+        e do Adolescente, criado pela Lei nº 2.368, de 22 de dezembro de 1995;
+        III - suspensão de Licença de Funcionamento por 02 (dois) dias;
+        IV - perda do Alvará de Funcionamento.
+        LEI PROMULGADA N. 163, DE 10 DE JULHO DE 2013.
+        Art. 4.º Cabe ao PROCON/AM (Programa de Proteção e Orientação ao Consumidor do Estado do Amazonas) a
+        fiscalização para cumprimento das disposições desta lei e a aplicação da penalidade de multa prevista no artigo 3º.
+        Art. 5.º Esta Lei entra em vigor 90 (noventa) dias a partir da data de sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=9160</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>4025</numero>
+      <ano>2014</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 4025 DE 02 DE ABRIL DE 2014</desc>
+      <nome>Serviço de Disque Denúncia Nacional de Violência Contra a Mulher</nome>      
+      <ementa>DISPÕE sobre a divulgação do serviço de Disque Denúncia Nacional de Violência Contra a Mulher, no âmbito do Estado do Amazonas.</ementa>
+      <texto>
+        Art. 1.º Fica obrigatória a divulgação do serviço de Disque Denúncia Nacional de Violência Contra a Mulher, o
+        Disque 180, no âmbito do Estado do Amazonas, nos seguintes estabelecimentos:
+        I - hotéis, motéis, pensões, pousadas e outros que prestem serviços de hospedagem;
+        II - bares, restaurantes, lanchonetes e similares;
+        III - casas noturnas de qualquer natureza;
+        IV - clubes sociais e associações recreativas ou desportivas, cujo quadro de associados seja de livre acesso ou
+        promovam eventos com entrada paga;
+        V - agências de viagens e locais de transportes de massa;
+        VI - salões de beleza, casas de massagem, saunas, academias de dança, de fisiculturismo, de ginástica e atividades
+        correlatas;
+        VII - outros estabelecimentos comerciais que ofereçam serviços mediante pagamento e voltados ao mercado ou ao
+        culto da estética pessoal;
+        VIII - postos de serviço de abastecimento de veículos e demais locais de acesso público que se localizem junto às
+        rodovias.
+        Art. 2.º O Poder Executivo poderá veicular a mensagem de que trata o caput deste artigo em todas as suas
+        propagandas institucionais.
+        Art. 3.º Os estabelecimentos especificados nesta Lei deverão afixar placas contendo o seguinte texto: “Violência
+        contra a mulher: denuncie! Disque 180”.
+        Parágrafo único. As placas de que trata o caput deste artigo deverão ser afixadas em locais que permitam aos
+        usuários dos estabelecimentos a sua fácil visualização.
+        Art. 4.º A inobservância ao disposto nesta Lei sujeitará o estabelecimento infrator às seguintes sanções:
+        I - advertência por escrito da autoridade competente;
+        II - em caso de reincidência, multa de R$200,00 (duzentos reais) por cada nova infração.
+        Art. 5.º O Poder Executivo regulamentará a presente Lei.
+        Parágrafo único. Os estabelecimentos especificados no artigo 1.º terão o prazo de 90 (noventa) dias, a contar da sua
+        regulamentação, para se adaptarem ao estabelecido nesta Lei.
+        Art. 6.º Esta Lei entra em vigor na data de sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=8479</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>75</numero>
+      <ano>2010</ano>
+      <tipo>LPR</tipo>
+      <desc>LEI PROMULGADA Nº 75 DE 23 DE FEVEREIRO DE 2010</desc>
+      <nome>PROÍBE o transporte em pé de passageiros de ônibus em linhas intermunicipais, com percursos superiores a trinta minutos de duração</nome>      
+      <ementa>PROÍBE o transporte em pé de passageiros de ônibus em linhas intermunicipais, com percursos superiores a trinta minutos de duração e dá outras providências.</ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea “d”, do inciso I, do artigo 20, da Resolução Legislativa nº 312, de 31 de outubro de 2001 - Regimento Interno - faz
+        saber a todos que a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1º - É vedado o transporte de passageiros em pé nos ônibus intermunicipais com percursos superiores a trinta
+        minutos de duração, salvo no caso de prestação de socorro, em decorrência de acidente ou avaria do ônibus.
+        Art. 2º - Será garantida ao passageiro sua poltrona no ônibus, nas condições especificadas no bilhete de passagem.
+        Art. 3º - O passageiro será auxiliado no embarque e desembarque, em se tratando de crianças, pessoas idosas ou
+        com dificuldades de locomoção.
+        Art. 4º - Terá o direito de receber, da empresa concessionária, informações acerca das características dos serviços,
+        tais como horários, tempo de viagem, localidades atendidas, preço de passagem e outras relacionadas com os
+        serviços.
+        Art. 5º - A empresa concessionária transportará, sem pagamento, crianças de até cinco anos, desde que não ocupem
+        poltronas, observadas as disposições legais e regulamentares aplicáveis ao transporte de menores.
+        Art. 6º - O passageiro tem o direito de estar garantido pelos seguros previstos na legislação em vigor.
+        Art. 7º - Ficam as empresas concessionárias de transportes intermunicipais no âmbito do Estado do Amazonas
+        obrigadas a divulgarem os direitos dos usuários em caso de acidente denominado seguro por Danos Pessoais
+        Causados por Veículos Automotores de Via Terrestre - DPVAT.
+        Parágrafo único. Sem prejuízo de outras modalidades, a divulgação de que trata o caput será feita:
+        I - através de cartazes afixados nos guichês, nas estações rodoviárias e no interior dos veículos;
+        II - pelo Serviço de Som das estações rodoviárias;
+        III - nos boletins, jornais ou impressos publicados pelas concessionárias.
+        Art. 8º - A segunda reincidência no período de seis meses a Empresa de Serviço Rodoviário Intermunicipal
+        Coletivo de Passageiros sofrerá a penalidade de cassação da autorização, conforme disposto no inciso V do artigo
+        46, da Lei nº 3.006, de 29 de novembro de 2005.
+        Art. 9º - Aplica-se no que couber a Lei nº 3.006, de 29 de novembro de 2005, que “Dispõe sobre o Serviço Público
+        de Transporte Rodoviário Intermunicipal Coletivo de Passageiros e dá outras providências”.
+        Art. 10 - Esta lei entrará em vigor na data da sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=9015</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>352</numero>
+      <ano>2016</ano>
+      <tipo>LPR</tipo>
+      <desc>LEI PROMULGADA Nº 352 DE 21 DE DEZEMBRO DE 2016</desc>
+      <nome>Proíbe a afixação de propagandas ou publicidades em postes de iluminação pública ,telefones públicos,pontos de onibus,instalados nas rodovias estaduais</nome>      
+      <ementa>
+        PROÍBE a afixação de propagandas ou publicidades
+        em postes de iluminação pública, telefones públicos,
+        pontos de ônibus, instalados nas rodovias estaduais.
+      </ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea e, I, do artigo 17, da Resolução Legislativa n. 469, de 19 de março
+        de 2010, Regimento Interno, faz saber a todos que a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1.º Fica proibido, no âmbito do Estado do Amazonas, a afixação de propagandas ou
+        publicidades em postes de iluminação pública, telefones públicos, pontos de ônibus, instalados nas
+        rodovias estaduais, exceto em espaços reservados a esta finalidade.
+        Parágrafo único. O disposto no artigo 1.º não terá aplicabilidade para qualquer tipo de
+        propaganda, publicidade ou divulgação de eventos e campanhas, entre outros meios, realizados pelo
+        Estado ou Municípios.
+        Art. 2.º O Poder Executivo regulamentará a presente Lei, designando órgão responsável pela
+        fiscalização e aplicação da penalidade, caso ocorra o descumprimento desta Lei, definindo as sanções
+        pecuniárias aos infratores.
+        Art. 3.º As despesas decorrentes da aplicação desta Lei correrão por conta de dotações
+        orçamentárias próprias, suplementadas se necessário.
+        Art. 4.º Esta Lei entra em vigor na data de sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=9667</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>231</numero>
+      <ano>2014</ano>
+      <tipo>LC</tipo>
+      <desc>LEI COMPLEMENTAR Nº 231 DE 22 DE DEZEMBRO DE 2014</desc>
+      <nome>Obriga a instalação de câmera de vídeo em berçários e em Unidades de Terapia Intensiva Neonatal nas maternidades públicas ou privadas</nome>      
+      <ementa>DISPÕE sobre a obrigatoriedade de instalação de câmera de vídeo em berçários e em Unidades de Terapia Intensiva Neonatal nas maternidades públicas ou privadas do Estado do Amazonas.</ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea e, I, do artigo 17, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, faz saber a todos que
+        a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1.º É obrigatória a instalação de câmera de vídeo em berçários e em Unidades de Terapia Intensiva Neonatal,
+        localizados em maternidades públicas ou privadas.
+        Parágrafo único. Para os efeitos desta lei consideram-se maternidades, as clínicas, casas de saúde, hospitais ou
+        congêneres que mantenham em suas dependências berçários ou Unidades de Terapia Intensiva Neonatal.
+        Art. 2.º O equipamento de que trata o artigo 1º desta lei deverá funcionar de forma ininterrupta e as imagens
+        captadas, com o registro de todas as atividades realizadas nos berçários e em Unidades de Terapia Intensiva
+        Neonatal, deverão ser gravadas em DVD.
+        Parágrafo único. Os DVD's deverão ser separados por data de filmagem e mantidos em arquivos por um prazo de
+        pelo menos 1 (um) ano.
+        Art. 3.º O não cumprimento do disposto nesta Lei sujeitará o infrator às seguintes sanções:
+        I - advertência;
+        II - multa no valor de até R$ 5.000,00 (cinco mil reais), duplicando-se o valor em caso de reincidência.
+        Parágrafo único. O valor da multa constante deste artigo deverá ser corrigido monetariamente por índice oficial a
+        ser definido em regulamento, a partir da publicação desta Lei.
+        Art. 4.º Os recursos financeiros necessários à cobertura da despesa decorrente desta Lei advirão do Tesouro
+        Estadual e serão consignados no Orçamento Setorial da Secretaria da Saúde, integrante do Orçamento Geral do
+        Estado.
+        Art. 5.º Esta Lei entra em vigor 90 (noventa) dias após a sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=944</linkSAPL>  
+    </lei>
+  </tipolei>
+  <!-- FIM DA LEIS DE SERVIÇO -->
+  <tipolei>
+    compras
+    <lei>
+      <numero>3415</numero>
+      <ano>2009</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 3415 DE 30 DE JULHO DE 2009</desc>
+      <nome>Proíbe a imposição de valor mínimo para as compras efetuadas no comércio a varejo com cartões de crédito ou débito</nome>      
+      <ementa>DISPÕE sobre a proibição da imposição de valor mínimo para as compras efetuadas no comércio a varejo com cartões de crédito ou débito e dá outras providências</ementa>
+      <texto>
+        Art. 1º - Fica proibido aos fornecedores de produtos e prestadores de serviços do comércio a varejo instituírem ou
+        imporem valores mínimos para as compras mediante cartões de débito ou crédito, salvo nas hipóteses de
+        parcelamento, quando ficam autorizados a fixarem um valor mínimo para compras parceladas, desde que mediante
+        prévio aviso ao consumidor, fixado de forma ostensiva, clara e legível no estabelecimento comercial.
+        Art. 2º - Os sujeitos referidos no artigo anterior que descumprirem o disposto nesta lei sofrerão as penalidades de:
+        I - advertência para obediência dos termos desta lei;
+        II - multa no caso de reincidência, graduada de acordo com a gravidade da infração, a vantagem auferida e a
+        condição econômica do infrator, nunca inferior a R$ 1.000,00 (um mil reais) e não superior a R$ 300.000,00
+        (trezentos mil reais), que será revertida ao Fundo Estadual de Defesa do Consumidor (FUNDECON), criado pela
+        Lei nº 2.228, de 29 de junho de 1994.
+        Art. 3º - Cabe ao PROCON/AM (Programa de Proteção e Orientação ao Consumidor do Estado do Amazonas) a
+        fiscalização para cumprimento das disposições desta lei e a aplicação da penalidade de multa prevista no art. 2°.
+        Art. 4º - Esta lei entrará em vigor 30 (trinta) dias após a data de sua publicação, revogando-se as disposições em
+        contrário
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7870</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>306</numero>
+      <ano>2015</ano>
+      <tipo>LPR</tipo>
+      <desc>LEI PROMULGADA Nº 306 de 23 DE DEZEMBRO DE 2015</desc>
+      <nome>Dispõe sobre os pedidos de cancelamentos de compras parceladas nas faturas de cartão de crédito, no âmbito do Estado do Amazonas</nome>      
+      <ementa>DISPÕE sobre os pedidos de cancelamentos de compras parceladas nas faturas de cartão de crédito, no âmbito do Estado do Amazonas.</ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea e, I, do artigo 17, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, faz saber a todos que
+        a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1.º Ficam as administradoras de cartões de crédito, no âmbito do Estado, obrigadas a realizar, no ato da
+        solicitação, o cancelamento das compras efetuadas na modalidade de parcelamento.
+        Art. 2.º O cancelamento das compras parceladas deverá ser solicitado pelo titular do cartão de crédito,
+        independentemente de consulta, autorização ou aviso prévio ao estabelecimento comercial ou prestador de serviço.
+        Art. 3.º A solicitação de cancelamento de compras parceladas somente será aceita se realizada antes do pagamento
+        da primeira parcela, independentemente da data de fechamento da fatura.
+        Art. 4.º Para realização do cancelamento das compras parceladas, o titular do cartão de crédito deverá informar as
+        razões do pedido que deverão constar do banco de dados das administradoras de cartões de créditos.
+        Parágrafo único. Realizado o cancelamento das compras parceladas, as administradoras de cartões de crédito
+        deverão informar, no prazo máximo de vinte e quatro horas, as razões do pedido ao estabelecimento comercial ou
+        prestador de serviço.
+        Art. 5.º Sem prejuízo das sanções penais cabíveis, comprovada a ocorrência de fraude ou simulação no pedido de
+        cancelamento, as administradoras de cartões de crédito poderão lançar, em parcela única, o valor total da compra
+        mediante solicitação do estabelecimento comercial ou prestador de serviço.
+        Art. 6.º A inobservância das disposições contidas na presente Lei importará, no que couber, a aplicação das
+        penalidades contidas no artigo 56 da Lei n. 8.078, de 11 de setembro de 1990.
+        Art. 7.º Aos órgãos de defesa do consumidor do Poder Executivo e do Poder Legislativo, dentro de suas
+        competências legais, cabe a adoção das medidas necessárias para o fiel cumprimento das disposições contidas na
+        presente Lei.
+        Art. 8.º Esta Lei entra em vigor na data de sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=9446</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>3214</numero>
+      <ano>2007</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 3214 de 28 DE DEZEMBRO DE 2007</desc>
+      <nome>Dispõe sobre a obrigatoriedade de apresentação de documento de identidade na realização de pagamentos com cartões de crédito e de débito</nome>      
+      <ementa>DISPÕE sobre a obrigatoriedade de apresentação de documento de identidade na realização de pagamentos com cartões de crédito e de débito, e dá outras providências.</ementa>
+      <texto>
+        Art. 1º - É obrigatória, no Estado do Amazonas, a apresentação de documento de identidade quando da realização
+        de pagamentos com cartões de crédito ou débitos, bem como assinatura de seu titular nas faturas, boletos ou
+        extratos de pagamento.
+        § 1º - Na falta do documento de identidade, poderá ser apresentado documento oficial similar com foto.
+        § 2º - Na via de pagamento destinada ao estabelecimento deverá constar o respectivo número do documento oficial.
+        Art. 2º - Como medida de segurança e proteção patrimonial nas relações de consumo e visando a evitar possíveis
+        fraudes ou cometimento de qualquer outro tipo penal pertinente, as empresas e estabelecimentos comerciais e
+        financeiros que trabalham com cartões de crédito ou débito deverão exigir obrigatoriamente, a apresentação do
+        documento de identidade, assumindo a responsabilidade pelo ônus no caso de descumprimento.
+        Parágrafo único. No caso de recusa da apresentação do documento de identidade, as empresas e estabelecimentos
+        comerciais e financeiros poderão negar ou desfazer a venda do produto ou a prestação do serviço anteriormente
+        acordado, ou exigir outra forma de pagamento.
+        Art. 3º - Esta lei entra em vigor na data de sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7669</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>3675</numero>
+      <ano>2011</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 3675 de 12 DE DEZEMBRO DE 2011</desc>
+      <nome>Dispõe sobre segurança, danos materiais, furtos e indenizações, correspondentes a veículos nos estacionamentos de estabelecimentos comerciais, shoppings centers, etc.</nome>     
+      <ementa>DISPÕE sobre segurança, danos materiais, furtos e indenizações, correspondentes a veículos nos estacionamentos de estabelecimentos comerciais, shoppings center’s, edifícios garagem, estacionamentos rotativos, agências bancárias, concessionárias e permissionárias de serviços públicos, a título gratuito ou oneroso e dá outras providências.</ementa>
+      <texto>
+        Art. 1º - Ficam os responsáveis pelos estabelecimentos comerciais, shoppings center’s, edifícios garagem,
+        estacionamentos rotativos, agências bancárias, concessionárias e permissionárias de serviços públicos, a título
+        gratuito ou oneroso, obrigados a disponibilizarem para os seus clientes, segurança patrimonial, que lhes
+        proporcionem as garantias necessárias, visando coibir danos físicos, danos materiais, furtos e roubos de veículos,
+        praticados por outrem.
+        Parágrafo único. Para efeito desta lei, compreendem estabelecimentos comerciais todos aqueles que atuam no
+        mercado de consumo com típica atividade empresarial e que disponibilizam estacionamento a título oneroso ou
+        gratuito.
+        Art. 2º - Em ocorrendo quaisquer das ações descritas no art. 1º, ficam os gestores desses empreendimentos,
+        obrigados a prestarem assistência médica, jurídica e financeira aos proprietários desses veículos, vez que, enquanto
+        clientes, confiam seu bem material sob sua guarda e proteção.
+        Art. 3º - Os estabelecimentos de que trata esta lei, devem contar com:
+        I - identificação clara e precisa sobre a disponibilidade deste tipo de serviço, fixada em local visível por todos, de
+        forma que a sua finalidade seja facilmente compreendida pelo público;
+        II - em se tratando de serviço oneroso, tabela de preço em local visível por todos, bem como a obrigatoriedade da
+        emissão do comprovante de entrada, de saída e de pagamento pelo serviço;
+        Art. 4º - Fica proibido afixar placas ou utilizar qualquer outro meio de comunicação do tipo: “Não nos
+        responsabilizamos por acessórios de veículos e objetos deixados no interior do mesmo” ou “Não nos
+        responsabilizamos por danos, furtos ou roubos causados ou praticados por terceiros”.
+        Art. 5º - No caso de descumprimento ao disposto nesta lei, o infrator ficará sujeito à pena de multa, que deverá ser
+        fixada na quantia entre R$ 1.000,00 (um mil reais) a R$ 50.000,00 (cinquenta mil reais), levando-se em
+        consideração o porte econômico-financeiro do estabelecimento.
+        § 1º - O valor da multa previsto no caput deste artigo será revertido ao Fundo Estadual de Defesa do Consumidor,
+        criado pela Lei n. 2.228, de 29 de junho de 1994.
+        § 2º - É assegurado o princípio do contraditório e da ampla defesa no procedimento administrativo, instaurado a
+        partir da lavratura do auto de infração pelo órgão competente.
+        Art. 6º - Caberá ao PROCON/AM (Programa de Proteção e Orientação ao Consumidor do Estado do Amazonas) a
+        fiscalização para o cumprimento das disposições e a aplicação da penalidade de multa prevista no artigo anterior.
+        Art. 7º - Os estabelecimentos referidos nesta lei terão o prazo de 90 (noventa) dias da data de sua publicação, para
+        observar as determinações nela dispostas.
+        Art. 8º - Esta lei entra em vigor na data da sua publicação, revogam-se as disposições em contrário.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=8130</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>56</numero>
+      <ano>2008</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI PROMULGADA Nº 56 de 19 DE DEZEMBRO DE 2008</desc>
+      <nome>OBRIGA os Shoppings Centers e estabelecimentos similares em todo o Estado do Amazonas a fornecer cadeiras de rodas para pessoas portadoras de necessidades especiais e idosos</nome>      
+      <ementa>OBRIGA os Shoppings Centers e estabelecimentos similares em todo o Estado do Amazonas a fornecer cadeiras de rodas para pessoas portadoras de necessidades especiais e idosos, gratuitamente, e dá outras providências.</ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma do que estabelece a alínea “d” do inciso I do artigo 20 da Resolução Legislativa nº 312, de 31 de outubro de 2001 –
+        Regimento Interno – faz saber aos que a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1º - Fica obrigatório o fornecimento de cadeiras de rodas para pessoas portadoras de necessidades especiais e
+        idosos, pelos Shoppings Centers e estabelecimentos similares, gratuitamente em todo o Estado do Amazonas.
+        Art. 2º - O fornecimento das cadeiras de rodas referido no caput do art. 1º não acarretará em qualquer ônus para o
+        usuário, cabendo exclusivamente aos estabelecimentos comerciais mencionados o fornecimento e a manutenção
+        das mesmas, em perfeitas condições de uso.
+        Art. 3º - Os estabelecimentos ficam obrigados a afixar em suas dependências internas, inclusive nas garagens,
+        cartazes ou placas indicativas dos locais onde as cadeiras de rodas se encontram disponíveis aos usuários.
+        Art. 4º - Esta lei entra em vigor na data de sua publicação.
+        Art. 5º - Revogam-se as disposições em contrário.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=8980</linkSAPL>  
+    </lei>
+  </tipolei>
+  <!-- FIM DA LEIS DE COMPRAS -->
+  <tipolei>
+    saude
+    <lei>
+      <numero>161</numero>
+      <ano>2013</ano>
+      <tipo>LPR</tipo>
+      <desc>LEI PROMULGADA Nº 161 DE 12 DE JULHO DE 2013</desc>
+      <nome>TORNA obrigatório caixa eletrônico em Braille e áudio para deficientes visuais em todas as agências bancárias do Estado do Amazonas</nome>      
+      <ementa>TORNA obrigatório caixa eletrônico em Braille e áudio para deficientes visuais em todas as agênciasbancárias do Estado do Amazonas.</ementa>
+      <texto>
+        A MESA DIRETORA DA ASSEMBLEIA LEGISLATIVA DO ESTADO DO AMAZONAS, na forma da alínea e, I, do artigo 17, da Resolução Legislativa n. 469, de 19 de março de 2010, Regimento Interno, faz saber a todos que
+        a presente virem que promulga a seguinte
+        LEI PROMULGADA:
+        Art. 1.º Torna obrigatório caixa eletrônico em Braille e áudio para deficientes visuais em todas as agências
+        bancárias do Estado do Amazonas.
+        §1.º As disposições de que trata este artigo se aplicam em todo e qualquer tipo de rede bancária.
+        §2.º As instruções e orientações ao usuário do sistema deverão ser feitas através do dispositivo de áudio.
+        Art. 2.º O caixa eletrônico de que trata o caput deste artigo deverá fornecer apenas cédulas no valor de dez reais.
+        Art. 3.º O acesso do deficiente visual ao caixa eletrônico de que trata o artigo 1º desta lei deverá ser através de piso
+        tátil, emborrachado e com saliências.
+        Art. 4.º A fiscalização do cumprimento desta lei ficará sob a responsabilidade do PROCON-AM.
+        Art. 5.º O descumprimento desta Lei ficará o infrator sujeito à advertência e em caso de reincidência será aplicada
+        multa estipulada pelo órgão fiscalizador.
+        Art. 6.º Esta Lei entrará em vigor na data de sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=9156</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>4115</numero>
+      <ano>2014</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 4115 DE 23 DE DEZEMBRO DE 2014</desc>
+      <nome>PROÍBE o uso, por profissionais da área da saúde, de equipamentos de proteção individual fora do ambiente de trabalho</nome>      
+      <ementa>PROÍBE o uso, por profissionais da área da saúde, de equipamentos de proteção individual fora do ambiente de trabalho.</ementa>
+      <texto>
+        Art. 1.º Ficam, todos os profissionais de saúde que atuam no âmbito do Estado do Amazonas, proibidos de circular
+        fora do ambiente de trabalho vestindo equipamentos de proteção individual com os quais trabalham, tais como
+        jalecos e aventais.
+        Art. 2.º O profissional de saúde que infringir as disposições contidas nesta Lei estará sujeito à multa de 5 (cinco)
+        Unidades Fiscais de Referência do Estado do Amazonas (Ufir/AM), aplicada em dobro em caso de reincidência.
+        Parágrafo único. As penalidades decorrentes de infrações às disposições desta Lei serão impostas, nos respectivos
+        âmbitos de atribuições, pelos órgãos estaduais de vigilância sanitária.
+        Art. 3.º As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias,
+        suplementadas se necessário.
+        Art. 4.º Esta Lei entrará em vigor na data de sua publicação, revogadas as disposições em contrário
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=8569</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>4072</numero>
+      <ano>2014</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 4072 DE 04 DE ABRIL DE 2014</desc>
+      <nome>Maternidades devem permitir a presença de doulas durante todo o período de trabalho de parto</nome>      
+      <ementa>DISPÕE que maternidades, casas de parto e estabelecimentos hospitalares congêneres, da rede pública e privada do Estado do Amazonas devem permitir a presença de “doulas” durante todo o período de trabalho de parto, parto e pós-parto imediato, sempre que solicitadas pela parturiente.</ementa>
+      <texto>
+        Art. 1.º Maternidades, casas de parto e estabelecimentos hospitalares congêneres, da rede pública e privada do
+        Estado do Amazonas devem permitir a presença de “doulas” durante todo o período de trabalho de parto, parto e
+        pós-parto imediato, sempre que solicitadas pela parturiente.
+        §1.º Para efeitos desta Lei e em conformidade com a qualificação da CBO (Classificação Brasileira de Ocupações),
+        código 3221-35, “doulas” são acompanhantes de parto escolhidas livremente pelas gestantes e parturientes, que
+        “visam a prestar suporte contínuo à gestante no ciclo gravídico puerperal, favorecendo a evolução do parto e
+        bem-estar da gestante”, com certificação ocupacional em curso para essa finalidade.
+        §2.º A presença das “doulas” não se confunde com a presença do acompanhante instituído pela Lei Federal n.
+        11.108/2005.
+        §3.º Os serviços privados de assistência prestados pelas “doulas” durante todo o período de trabalho de parto, parto
+        e pós-parto imediato, bem como despesas com paramentação, não acarretarão qualquer custo adicional à
+        parturiente.
+        Art. 2.º As “doulas”, para o regular exercício da profissão, estão autorizadas a entrar nas maternidades, casas de
+        parto e estabelecimentos hospitalares congêneres, da rede pública e privada do Estado do Amazonas, com seus
+        respectivos instrumentos de trabalho, condizentes com as normas de segurança e ambiente hospitalar.
+        Parágrafo único. Entende-se como instrumentos de trabalho das “doulas”:
+        I - bolas de fisioterapia;
+        II - massageadores;
+        III - bolsa de água quente;
+        IV - óleos para massagens;
+        V - banqueta auxiliar para parto;
+        VI - demais materiais considerados indispensáveis na assistência do período de trabalho de parto, parto e pós-parto
+        imediato.
+        Art. 3.º Fica vedada às “doulas” a realização de procedimentos médicos ou clínicos, como aferição de pressão,
+        avaliação da progressão do trabalho de parto, monitoração de batimentos cardíacos fetais, administração de
+        medicamentos, entre outros, mesmo que estejam legalmente aptas a fazê-los.
+        Art. 4.º O não cumprimento da obrigatoriedade instituída no caput do artigo 1.º sujeitará os infratores às seguintes
+        penalidades:
+        I - advertência, na primeira ocorrência;
+        II - se estabelecimento privado, multa de R$500,00 (quinhentos reais), dobrada em cada reincidência, até o limite
+        de R$2.000,00 (dois mil reais);
+        III - Vetado.
+        Parágrafo único. Competirá ao órgão gestor da saúde da localidade em que estiver situado o estabelecimento a
+        aplicação das penalidades de que trata este artigo, conforme estabelecer a legislação própria, a qual disporá, ainda,
+        sobre a aplicação dos recursos dela decorrentes.
+        Art. 5.º Os sindicatos, associações, órgãos de classe dos médicos, enfermeiros e entidades similares de serviços de
+        saúde do Estado do Amazonas deverão adotar, de imediato, as providências necessárias ao cumprimento da
+        presente Lei.
+        Art. 6.º O Poder Executivo regulamentará esta Lei, no que couber, no prazo de 60 (sessenta) dias após sua
+        publicação.
+        Art. 7.º Esta Lei entrará em vigor 60 (sessenta) dias após a sua publicação.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=8526</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>3391</numero>
+      <ano>2009</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 3391 DE 12 DE JULHO DE 2009</desc>
+      <nome>Hospitais, clínicas e postos de saúde devem informar aos órgãos públicos de segurança local os atendimentos de vítimas de violência</nome>      
+      <ementa>OBRIGA os hospitais, clínicas e postos de saúde instalados nos Municípios a informarem aos órgãos públicos de segurança local os atendimentos feitos às mulheres, adolescentes e crianças, vitimadas pela violência e dá outras providências.</ementa>
+      <texto>
+        Art. 1º - Ficam obrigados os hospitais, clínicas e postos de saúde, instalados nos Municípios, a informarem aos
+        órgãos públicos de segurança local, os atendimentos feitos a mulheres, adolescentes e crianças vitimadas pela
+        violência.
+        Art. 2º - As informações prestadas aos órgãos públicos de segurança local, deverão ser encaminhadas em até 24
+        (vinte e quatro) horas.
+        Art. 3º - O Poder Executivo regulamentará a presente lei em 90 (noventa) dias.
+        Art. 4º - Esta lei entra em vigor na data de sua publicação, revogando-se as disposições em contrário.
+        PAÇO DA ASSEMBLÉIA LEGISLATIVA DO ESTADO DO AMAZONAS, em Manaus,
+        Deputado BELARMINO LINS
+        Presidente
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7846</linkSAPL>  
+    </lei>
+    <lei>
+      <numero>2679</numero>
+      <ano>2001</ano>
+      <tipo>LEI</tipo>
+      <desc>LEI Nº 2679 DE 25 DE SETEMBRO DE 2001</desc>
+      <nome>Obriga a aplicação do teste de glicose em todos os hospitais, postos de saúde, centros de saúde, clínicas médicas e demais locais</nome>      
+      <ementa>TORNA obrigatória a aplicação do teste de glicose em todos os hospitais, postos de saúde, centros de saúde, clínicas médicas e demais locais onde se aplicam soro glicosado ou glicose, públicos e particulares do Estado do Amazonas e dá outras providências</ementa>
+      <texto>
+        A ASSEMBLÉIA LEGISLATIVA DO ESTADO DO AMAZONAS
+        DECRETA:
+        Art. 1.º - É obrigatória a aplicação do teste glicosimétrico em todos os procedimentos médicos que impliquem na
+        aplicação de soro glicosado ou glicose, por todos os hospitais, postos de saúde, centros de saúde, clínicas médicas e
+        congêneres, da rede pública e particular do Estado do Amais onde se
+        aplicam soro glicosado ou glicose, 
+        Art. 2.º - A responsabilidade decorrente das determinações contidas no artigo anterior será do Médico plantonista
+        e/ou do responsável pela aplicação do soro glicosado ou glifica autorizado a baixar normas complementares para a
+        execução da presente lei.cose.
+        Art. 3.º - O Poder Executivo, através do Órgão Competente,
+        Art. 4.º - As despesas decorrentes da execução desta lei, relativas a rede Pública Hospitalar, correrão à conta das
+        dotações orçamentárias próprias, consignadas no orçamento em vigor, suplementadas se necessário, devendo os
+        orçamentos futuros destinar recursos específicos para o seu fiel cumprimento.
+        Art. 5.º - Esta lei entrará em vigor na data de sua publicação.
+        Art. 6.º - Revogam-se as disposições em contrário.
+      </texto>
+      <linkSAPL>http://sapl.al.am.leg.br/consultas/norma_juridica/norma_juridica_mostrar_proc?cod_norma=7134</linkSAPL>  
+    </lei>
+  </tipolei>
+  <!-- FIM DA LEIS DE SAÚDE -->
+</leis>
+

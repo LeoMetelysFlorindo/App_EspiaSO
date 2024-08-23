@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tela1"
+    android:minWidth="25px"
+    android:minHeight="25px">
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="20sp"
+        android:background="@drawable/Home80x20"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="20px"
+        android:id="@+id/btnHome"
+        android:onClick="btnHomeClicked"
+        android:layout_marginLeft="20px" />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="20sp"
+        android:background="@drawable/Favoritos80x20"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnOuvir"
+        android:layout_marginLeft="170px"
+        android:layout_marginTop="-40px" />
+    <ListView
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/listViewFav" />
+    <TextView
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="fill_horizontal"
+        android:id="@+id/TxtVazio" />
+</LinearLayout>

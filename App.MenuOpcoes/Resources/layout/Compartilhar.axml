@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:background="@drawable/tela1"
+    android:layout_height="match_parent">
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="20sp"
+        android:background="@drawable/Home80x20"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="25px"
+        android:id="@+id/btnHome"
+        android:onClick="btnHomeClicked"
+        android:layout_marginLeft="25px" />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="20sp"
+        android:background="@drawable/Lazer80x20"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnOuvir"
+        android:layout_marginLeft="170px"
+        android:layout_marginTop="-40px" />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="60sp"
+        android:background="@drawable/Feceboook121x121"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="70px"
+        android:id="@+id/btnFace"
+        android:layout_marginLeft="180px" />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="60sp"
+        android:background="@drawable/Twitter12x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="-115px"
+        android:id="@+id/btnTwitter"
+        android:layout_marginLeft="420px" />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="60sp"
+        android:background="@drawable/Google2x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="70px"
+        android:id="@+id/btnGoogle"
+        android:layout_marginLeft="180px" />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="60sp"
+        android:background="@drawable/Whatsapp12x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="-115px"
+        android:id="@+id/btnWhatsapp"
+        android:layout_marginLeft="420px" />
+</LinearLayout>

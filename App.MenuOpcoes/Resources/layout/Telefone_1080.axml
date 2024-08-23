@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/tela1">
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="20sp"
+        android:background="@drawable/HOME80X20"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="20px"
+        android:id="@+id/btnHome"
+        android:onClick="btnHomeClicked"
+        android:layout_marginLeft="20px" />
+    <Button
+        android:layout_width="80sp"
+        android:layout_height="20sp"
+        android:background="@drawable/Fones80x20"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnOuvir"
+        android:layout_marginLeft="235px"
+        android:layout_marginTop="-60px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/policia120x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="25px"
+        android:id="@+id/btnPolicia"
+        android:onClick="btnPoliciaClicked"
+        android:layout_marginLeft="200px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Direitos120x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnDireito"
+        android:onClick="btnDireitoClicked"
+        android:layout_marginLeft="510px"
+        android:layout_marginTop="-305px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Denuncia120x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="25px"
+        android:id="@+id/btnDenuncia"
+        android:onClick="btndenunciaClicked"
+        android:layout_marginLeft="200px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Civil120x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnCivil"
+        android:onClick="btnCivilClicked"
+        android:layout_marginLeft="510px"
+        android:layout_marginTop="-305px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Samu120x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="25px"
+        android:id="@+id/btnSamu"
+        android:onClick="btnSamuClicked"
+        android:layout_marginLeft="200px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Bombeiros120x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnBombeiro"
+        android:onClick="btnBombeiroClicked"
+        android:layout_marginLeft="510px"
+        android:layout_marginTop="-305px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/Transito120x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:layout_marginTop="25px"
+        android:id="@+id/btnTransito"
+        android:onClick="btnTransitoClicked"
+        android:layout_marginLeft="200px" />
+    <Button
+        android:layout_width="100sp"
+        android:layout_height="100sp"
+        android:background="@drawable/DefesaCivil120x120"
+        android:gravity="center_vertical"
+        android:textColor="#fff"
+        android:id="@+id/btnDefesa"
+        android:onClick="btnDefesaCivilClicked"
+        android:layout_marginLeft="510px"
+        android:layout_marginTop="-305px" />
+</LinearLayout>

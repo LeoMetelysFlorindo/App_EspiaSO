@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/tela1"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:minWidth="25px"
+        android:minHeight="25px">
+        <Button
+            android:layout_width="80sp"
+            android:layout_height="20sp"
+            android:background="@drawable/Home80x20"
+            android:gravity="center_vertical"
+            android:textColor="#fff"
+            android:layout_marginTop="25px"
+            android:id="@+id/btnHome"
+            android:onClick="btnHomeClicked"
+            android:layout_marginLeft="25px" />
+        <Button
+            android:layout_width="80sp"
+            android:layout_height="20sp"
+            android:background="@drawable/Lazer80x20"
+            android:gravity="center_vertical"
+            android:textColor="#fff"
+            android:id="@+id/btnOuvir"
+            android:layout_marginLeft="170px"
+            android:layout_marginTop="-40px" />
+        <TextView
+            android:text="No. Lei"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="17dp"
+            android:id="@+id/txtNoLei"
+            android:layout_marginTop="20px"
+            android:fontFamily="Futura Bk BT" />
+        <TextView
+            android:text="Descrição ementa"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:textSize="15dp"
+            android:id="@+id/txtEmenta"
+            android:layout_marginTop="10px"
+            android:fontFamily="Futura Bk BT" />
+        <Button
+            android:text="Visualizar"
+            android:background="@drawable/botaored"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:layout_width="120sp"
+            android:layout_height="50sp"
+            android:textColor="#fff"
+            android:id="@+id/BtnLei"
+            android:onClick="btnHomeClicked"
+            android:fontFamily="Futura Bk BT"
+            android:textSize="20dp"
+            android:layout_marginLeft="490px"
+            android:layout_marginTop="10px" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:gravity="fill_horizontal"
+            android:textSize="15dp"
+            android:id="@+id/txtIntegral"
+            android:layout_marginTop="2px"
+            android:layout_marginLeft="15px"
+            android:fontFamily="Futura Bk BT"
+            android:visibility="invisible" />
+        <Button
+            android:layout_width="30sp"
+            android:layout_height="30sp"
+            android:background="@drawable/Share2"
+            android:gravity="center_vertical"
+            android:textColor="#fff"
+            android:layout_marginTop="-20px"
+            android:id="@+id/btnShare"
+            android:layout_marginLeft="250px" />
+        <Button
+            android:layout_width="40sp"
+            android:layout_height="30sp"
+            android:background="@drawable/Fav2"
+            android:gravity="center_vertical"
+            android:textColor="#fff"
+            android:layout_marginTop="-60px"
+            android:id="@+id/btnFavoritos"
+            android:layout_marginLeft="355px" />
+        <Button
+            android:layout_width="45sp"
+            android:layout_height="30sp"
+            android:background="@drawable/FavExcluir50x50"
+            android:gravity="center_vertical"
+            android:textColor="#fff"
+            android:layout_marginTop="-60px"
+            android:id="@+id/btnExcluiFav"
+            android:layout_marginLeft="450px"
+            android:visibility="invisible" />
+        <TextView
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="fill_horizontal"
+            android:id="@+id/TxtVazio" />
+    </LinearLayout>
+</ScrollView>

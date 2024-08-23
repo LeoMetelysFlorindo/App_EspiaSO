@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<telefones>
+  <numero>191</numero>
+  <fone>POLICIA MILITAR</fone>
+  <numero>100</numero>
+  <fone>DIREITOS HUMANOS</fone>
+  <numero>181</numero>
+  <fone>DISK DENÚNCIA</fone>
+  <numero>190</numero>
+  <fone>POLÍCIA CIVIL</fone>
+  <numero>192</numero>
+  <fone>SAMU</fone>
+  <numero>193</numero>
+  <fone>BOMBEIROS</fone>
+  <numero>194</numero>
+  <fone>TRÂNSITO</fone>
+  <numero>199</numero>
+  <fone>DEFESA CIVIL</fone>  
+</telefones>

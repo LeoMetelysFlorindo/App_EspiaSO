@@ -1,0 +1,742 @@
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.pdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.AppEspiaSo.apk
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.AppEspiaSo-Signed.apk
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.pdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.csprojResolveAssemblyReference.cache
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.dll
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.pdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\bin\AppEspiaSo.AppEspiaSo.apk
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\adicionar.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conheca.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conhecaaleam.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\lazer.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\servico.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\saude.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\compras.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\ouvidoria.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\favoritos.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\telefone.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\values\strings.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\icon.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\menu\menu1.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\add.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\cancel.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\deleta.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\edit.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\tela1.jpg
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\values\telainicial.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fundo1.jpg
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\home.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoaleam100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoaleam25x25.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\botao.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servico50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fones50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servicos100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fone100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoapp100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\botaored.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\telouvidoria1.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\telouvidoria2.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\denuncia120x120.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\policia120x120.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\home80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servicos80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fones80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\direitos120x120.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\civil120x120.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\bombeiros120x120.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\samu120x120.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\defesacivil120x120.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\transito120x120.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\aleam80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\sobre80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos80x20.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\leis.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\R.cs.flag
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\uploadflags.txt
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\App.MenuOpcoes.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Java.Interop.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Mono.Android.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\mscorlib.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Core.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Net.Http.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Xml.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\App.MenuOpcoes.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\AppEspiaSo.dll.mdb
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main_1080.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main_800.xml
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos100x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\iconapp100x100.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoapp50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\menu50x50.png
+C:\Fonts\AppEspiaSo\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.pdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.AppEspiaSo.apk
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.AppEspiaSo-Signed.apk
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.pdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.csprojResolveAssemblyReference.cache
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.dll
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.pdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\bin\AppEspiaSo.AppEspiaSo.apk
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\adicionar.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conheca.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conhecaaleam.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\lazer.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\servico.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\saude.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\compras.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\ouvidoria.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\favoritos.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\telefone.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conheca_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conheca_1800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\compras_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\compras_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\values\strings.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\icon.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\menu\menu1.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\add.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\cancel.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\deleta.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\edit.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\tela1.jpg
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\values\telainicial.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fundo1.jpg
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\home.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoaleam100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoaleam25x25.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\botao.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servico50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fones50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servicos100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fone100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoapp100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\botaored.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\telouvidoria1.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\telouvidoria2.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\denuncia120x120.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\policia120x120.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\home80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servicos80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fones80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\direitos120x120.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\civil120x120.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\bombeiros120x120.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\samu120x120.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\defesacivil120x120.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\transito120x120.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\aleam80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\sobre80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos80x20.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos100x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\iconapp100x100.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoapp50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\menu50x50.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\R.cs.flag
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\uploadflags.txt
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Java.Interop.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Mono.Android.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\mscorlib.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Core.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Net.Http.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Xml.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\AppEspiaSo.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\lazer_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\lazer_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\servico_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\servicos_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\saude_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\saude_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\ouvidora_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\ouvidoria_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.pdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.AppEspiaSo.apk
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.AppEspiaSo-Signed.apk
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.pdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\FormsViewGroup.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.csprojResolveAssemblyReference.cache
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.dll
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.pdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\bin\AppEspiaSo.AppEspiaSo.apk
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\adicionar.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conheca.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conhecaaleam.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\lazer.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\servico.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\saude.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\compras.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\ouvidoria.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\favoritos.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\telefone.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conheca_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\conheca_1800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\compras_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\compras_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\lazer_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\lazer_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\servico_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\servicos_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\saude_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\saude_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\ouvidora_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\ouvidoria_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\main.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\values\strings.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\icon.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\menu\menu1.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\add.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\cancel.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\deleta.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\edit.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\tela1.jpg
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\values\telainicial.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fundo1.jpg
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\home.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoaleam100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoaleam25x25.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\botao.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servico50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fones50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servicos100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fone100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoapp100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\botaored.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\telouvidoria1.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\telouvidoria2.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\denuncia120x120.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\policia120x120.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\home80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\lazer80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\saude80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\servicos80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\compras80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\fones80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\direitos120x120.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\civil120x120.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\bombeiros120x120.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\samu120x120.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\defesacivil120x120.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\transito120x120.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\aleam80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\sobre80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos80x20.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\favoritos100x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\iconapp100x100.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\logoapp50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\menu50x50.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\R.cs.flag
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\uploadflags.txt
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\favoritos_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\favoritos_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\telefone_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\telefone_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Java.Interop.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Mono.Android.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\mscorlib.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Core.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Net.Http.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Xml.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\AppEspiaSo.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\sobre_1080.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\sobre_800.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\menu_icon.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\menucustomlayout.xml
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\down_arrow.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\up_arrow.png
+C:\Fonts\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.dll.mdb
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\favoritos_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\favoritos_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\telefone_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\telefone_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\sobre_1080.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\sobre_800.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\layout\menucustomlayout.xml
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\menu_icon.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\down_arrow.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\res\drawable\up_arrow.png
+C:\Fonts\Fim de semana\AppEspiaSo\App.MenuOpcoes\obj\Debug\AppEspiaSo.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\AppEspiaSo.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\AppEspiaSo.AppEspiaSo.apk
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\AppEspiaSo.AppEspiaSo-Signed.apk
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\FormsViewGroup.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.CurrentActivity.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.DeviceInfo.Abstractions.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.DeviceInfo.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\FormsViewGroup.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\FormsViewGroup.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.CurrentActivity.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.DeviceInfo.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.DeviceInfo.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.DeviceInfo.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.DeviceInfo.Abstractions.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.DeviceInfo.Abstractions.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\AppEspiaSo.csprojResolveAssemblyReference.cache
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.CardView.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Compat.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.UI.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Core.Utils.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Media.Compat.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Fragment.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Transition.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v4.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.Palette.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.RecyclerView.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Vector.Drawable.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Animated.Vector.Drawable.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.AppCompat.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.Design.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\XbdMerge\Xamarin.Android.Support.v7.MediaRouter.dll.stamp
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\AppEspiaSo.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\AppEspiaSo.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\bin\AppEspiaSo.AppEspiaSo.apk
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\conheca.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\conhecaaleam.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\lazer.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\servico.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\saude.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\compras.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\ouvidoria.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\favoritos.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\telefone.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\main_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\main_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\conheca_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\conheca_1800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\compras_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\compras_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\lazer_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\lazer_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\servico_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\servicos_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\saude_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\saude_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\ouvidora_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\ouvidoria_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\favoritos_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\favoritos_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\telefone_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\telefone_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\sobre_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\sobre_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\menucustomlayout.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\mostralei.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\listalei.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\mostrarlei_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\mostrarlei_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\compartilhar.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\compartilhar_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\compartilhar_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\pesquisar.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\busca.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\busca_800.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\busca_1080.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\main.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\values\strings.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\icon.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\menu\menu1.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\add.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\cancel.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\deleta.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\edit.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\values\telainicial.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fundo1.jpg
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\home.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\logoaleam100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\logoaleam25x25.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\botao.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\servico50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\lazer50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\saude50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\compras50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fones50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\favoritos.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\favoritos50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\favoritos100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\lazer100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\servicos100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\saude100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\compras100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fone100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\logoapp100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\botaored.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\telouvidoria1.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\telouvidoria2.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\denuncia120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\policia120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\home80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\lazer80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\ouvidoria80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\saude80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\servicos80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\compras80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fones80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\direitos120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\civil120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\bombeiros120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\samu120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\defesacivil120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\transito120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\aleam80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\sobre80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\favoritos80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\favoritos100x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\iconapp100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\logoapp50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\menu50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\menu_icon.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\down_arrow.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\up_arrow.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\share.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fav.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fav2.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\share2.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\face1.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\google1.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\twitter1.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\whatsapp.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fundo3.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\tela2.jpg
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\novofundo.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\busca.jpg
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\pesquisa80x20.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\google2x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\whatsapp12x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\twitter12x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\feceboook121x121.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\tela1.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\R.cs.flag
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\uploadflags.txt
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\AppEspiaSo.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\Plugin.DeviceInfo.Abstractions.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\Plugin.DeviceInfo.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\SQLite.Net.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\SQLite.Net.Platform.XamarinAndroid.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\layout\listafavorito.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Java.Interop.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Mono.Android.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Mono.Android.Export.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\mscorlib.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\System.Core.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\System.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\System.Net.Http.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\System.Xml.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\Mono.Android.Export.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\System.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\exclui.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\favexcluir50x50.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fones120x120.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\res\drawable\fones100x100.png
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.WifiInfo.Abstractions.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.WifiInfo.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.WifiInfo.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.WifiInfo.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.WifiInfo.Abstractions.pdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.WifiInfo.Abstractions.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.WifiInfo.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\Plugin.WifiInfo.Abstractions.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\RestSharp.dll
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\RestSharp.xml
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\obj\Debug\AppEspiaSo.dll.mdb
+C:\Fonts\AppEspiaSo_New\App.MenuOpcoes\bin\Debug\AppEspiaSo.dll.mdb

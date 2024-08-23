@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Plugin.WifiInfo</name>
+    </assembly>
+    <members>
+        <member name="T:Plugin.WifiInfo.CrossWifiInfo">
+            <summary>
+            Cross platform WifiInfo implemenations
+            </summary>
+        </member>
+        <member name="P:Plugin.WifiInfo.CrossWifiInfo.Current">
+            <summary>
+            Current settings to use
+            </summary>
+        </member>
+        <member name="T:Plugin.WifiInfo.WifiInfoImplementation">
+            <summary>
+            Implementation for Feature
+            </summary>
+        </member>
+    </members>
+</doc>
